@@ -9,5 +9,3 @@ mix.styles([
    'resources/css/my-style.css',
    'resources/css/my-style-h1.css',
 ], 'public/css/my-app.css');
-
-mix.sass('resources/sass/my-style-h1.scss','public/css/my-app.css');
