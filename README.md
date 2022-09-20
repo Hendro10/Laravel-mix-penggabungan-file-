@@ -11,3 +11,4 @@ Copy paste file 'webpack.mix.js'ke folder utama yaitu nama basis data yang kita 
 Buka cmd dan run administrator arahkan file ke direktory C:\Windows\sistem32> cd C:\xampp\htdocs\('nama database')>npm run dev
 Jika berhasil, maka akan muncul file bernama 'my-app.css di folder 'publik' => 'css' dan file 'my-app.js' di folder 'publik' => 'js'.
 Buka web broser ketikkan 'localhost:8000' pada alamat url dengan terlebih dahulu mengaktifkan server dengan cara ketik C:\xampp\htdocs\(nama database)> php artisan serve
+Tekan tombol Ctrl + Shift + J atau klik sembarang tempat di halaman web broser, maka akan muncul alert "saya diklik' serta pesan console 'saya juga diklik' yang menendakan kode Java Script sudah berjalan di Laravel.
