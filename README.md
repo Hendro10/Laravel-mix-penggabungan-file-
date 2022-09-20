@@ -10,3 +10,4 @@ Copy paste file 'welcome.blade.php' ke dalam folder 'views'.
 Copy paste file 'webpack.mix.js'ke folder utama yaitu nama basis data yang kita buat.
 Buka cmd dan run administrator arahkan file ke direktory C:\Windows\sistem32> cd C:\xampp\htdocs\('nama database')>npm run dev
 Jika berhasil, maka akan muncul file bernama 'my-app.css di folder 'publik' => 'css' dan file 'my-app.js' di folder 'publik' => 'js'.
+Buka web broser ketikkan 'localhost:8000' pada alamat url dengan terlebih dahulu mengaktifkan server dengan cara ketik C:\xampp\htdocs\(nama database)> php artisan serve
